@@ -1,0 +1,5 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "description": "Extension of cihelper/renovate-preset for myself",
+  "extends": ["github>cihelper/renovate-preset", ":assignee(mirkolenz)"]
+}
